@@ -28,3 +28,6 @@ The font used in the project is Exo 2 which you can download here: http://ndisco
 
 ![shirt-example-front-full](http://i.imgur.com/sDt7Igh.jpg)
 ![shirt-example-closeup](http://i.imgur.com/qTaD5km.jpg)
+![shirt-front](http://i.imgur.com/tlKyKLF.jpg)
+![shirt-side](http://i.imgur.com/MpYbGFi.jpg)
+![shirt-back](http://i.imgur.com/67lhpGS.jpg)
