@@ -39,3 +39,4 @@ If you want to know how this project was formed, read more on our blog:
 ![shirt-front](http://i.imgur.com/tlKyKLF.jpg)
 ![shirt-side](http://i.imgur.com/MpYbGFi.jpg)
 ![shirt-back](http://i.imgur.com/67lhpGS.jpg)
+![shirt-back](http://i.imgur.com/B8csdRl.jpg)
