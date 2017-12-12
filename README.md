@@ -7,7 +7,7 @@
 # Table of Contents
 * [About this project](#about-this-project)
 * [Assets and usage](#assets-and-usage)
-* [How it all started] (#how-it-all-started)
+* [How it all started](#how-it-all-started)
 * [Live examples](#preview)
 
 # About this project
@@ -32,7 +32,7 @@ The font used in the project is Exo 2 which you can download here: http://ndisco
 # How it all started
 
 If you want to know how this project was formed, read more on our blog:
-POL: https://teonite.com/blog/prawdopodobnie-pierwsze-na-swiecie-koszulki-open-source/
+* POL: https://teonite.com/blog/prawdopodobnie-pierwsze-na-swiecie-koszulki-open-source/
 
 # Preview
 
