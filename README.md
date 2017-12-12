@@ -7,6 +7,7 @@
 # Table of Contents
 * [About this project](#about-this-project)
 * [Assets and usage](#assets-and-usage)
+* [How it all started] (#how-it-all-started)
 * [Live examples](#preview)
 
 # About this project
@@ -27,6 +28,11 @@ For logo spacing and placement, as well as additional tweaks consult sample .ai 
 used in printing our version of male and female fullprint shirts. 
 
 The font used in the project is Exo 2 which you can download here: http://ndiscovered.com
+
+# How it all started
+
+If you want to know how this project was formed, read more on our blog:
+POL: https://teonite.com/blog/prawdopodobnie-pierwsze-na-swiecie-koszulki-open-source/
 
 # Preview
 
