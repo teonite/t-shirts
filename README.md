@@ -7,6 +7,7 @@
 # Table of Contents
 * [About this project](#about-this-project)
 * [Assets and usage](#assets-and-usage)
+* [I just want to buy the t-shirt](#I-just-want-do-buy-the-t-shirt)
 * [How it all started](#how-it-all-started)
 * [Live examples](#preview)
 
@@ -28,6 +29,12 @@ For logo spacing and placement, as well as additional tweaks consult sample .ai 
 used in printing our version of male and female fullprint shirts. 
 
 The font used in the project is Exo 2 which you can download here: http://ndiscovered.com
+
+# I just want do buy the t-shirt
+
+If you don't want do make your own t-shirts, you can just buy a tshirt with a selected constellation logo (Python/Angular/React/Docker/...) - here is the swag shop:
+
+bitly.com/tnt-shop
 
 # How it all started
 
