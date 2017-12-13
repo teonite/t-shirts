@@ -7,7 +7,7 @@
 # Table of Contents
 * [About this project](#about-this-project)
 * [Assets and usage](#assets-and-usage)
-* [I just want to buy the t-shirt](#I-just-want-do-buy-the-t-shirt)
+* [I just want to buy the t-shirt](#i-just-want-do-buy-the-t-shirt)
 * [How it all started](#how-it-all-started)
 * [Live examples](#preview)
 
