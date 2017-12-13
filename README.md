@@ -32,7 +32,7 @@ The font used in the project is Exo 2 which you can download here: http://ndisco
 # How it all started
 
 If you want to know how this project was formed, read more on our blog:
-* POL: https://teonite.com/blog/prawdopodobnie-pierwsze-na-swiecie-koszulki-open-source/
+* Article in Polish (English version soon): https://teonite.com/blog/prawdopodobnie-pierwsze-na-swiecie-koszulki-open-source/
 
 # Preview
 
