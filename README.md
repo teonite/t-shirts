@@ -20,26 +20,25 @@ So here they are - (probably) worlds first open-source t-shirts.
 
 # Assets and usage
 
-CONSTELLATIONS_by_TEONITE.ai is an Ilustrator file with assets we made for use on TEONITE's t-shirts projects. 
+CONSTELLATIONS_by_TEONITE is a file with assets we made for use on TEONITE's t-shirts projects. 
 Feel free to use them in your project. Word of advice: try to achive high contrast between objects and shirt main color.
 
-HOW_TO_START.ai is a quick tutorial on "How to create your own constellation". You might find it useful.
+HOW_TO_START is a quick tutorial on "How to create your own constellation". You might find it useful.
 
-For logo spacing and placement, as well as additional tweaks consult sample .ai files. These are files that were 
+For logo spacing and placement, as well as additional tweaks consult "sample_famale_M_fullprint" and "sample_male_M_fullprint" files. These are files that were 
 used in printing our version of male and female fullprint shirts. 
 
-The font used in the project is Exo 2 which you can download here: http://ndiscovered.com
+The font used in this project is Exo 2 which you can download here: http://ndiscovered.com and here http://fonts.google.com/specimen/Exo+2
 
 # I just want do buy the t-shirt
 
-If you don't want do make your own t-shirts, you can just buy a tshirt with a selected constellation logo (Python/Angular/React/Docker/...) - here is the swag shop:
-
-https://bit.ly/tnt-shop
+If you don't want do make your own t-shirts, you can just buy one with a selected constellation logo (Python/Angular/React/Docker/etc.) in the swag shop:
+http://bit.ly/tnt-shop
 
 # How it all started
 
 If you want to know how this project was formed, read more on our blog:
-* Article in Polish (English version soon): https://teonite.com/blog/prawdopodobnie-pierwsze-na-swiecie-koszulki-open-source/
+* Article in Polish (English version coming soon): https://teonite.com/blog/prawdopodobnie-pierwsze-na-swiecie-koszulki-open-source/
 
 # Preview
 
