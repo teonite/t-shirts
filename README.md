@@ -29,7 +29,7 @@ For logo spacing and placement, as well as additional tweaks, examine "sample_fa
 
 The font used in this project is Exo 2 which you can download here: http://ndiscovered.com and here http://fonts.google.com/specimen/Exo+2
 
-# I just want do buy the t-shirt
+# I just want to buy the t-shirt
 
 If you don't want do make your own t-shirts, you can just buy one with a selected constellation logo (Python/Angular/React/Docker/etc.) in the swag shop:
 
