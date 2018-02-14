@@ -32,12 +32,14 @@ The font used in this project is Exo 2 which you can download here: http://ndisc
 # I just want do buy the t-shirt
 
 If you don't want do make your own t-shirts, you can just buy one with a selected constellation logo (Python/Angular/React/Docker/etc.) in the swag shop:
-http://bit.ly/tnt-shop
+
+http://teonite.cupsell.com
 
 # How it all started
 
 If you want to know how this project was formed, read more on our blog:
-* Article in Polish (English version coming soon): https://teonite.com/blog/prawdopodobnie-pierwsze-na-swiecie-koszulki-open-source/
+* Article on our blog with more details: https://teonite.com/blog/probably-worlds-first-open-source-t-shirts/
+* Article in Polish: https://teonite.com/blog/prawdopodobnie-pierwsze-na-swiecie-koszulki-open-source/
 
 # Preview
 
