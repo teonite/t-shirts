@@ -14,24 +14,24 @@
 # About this project
 
 Company t-shirts are usually cheap and boring. We tried to make it different and we came up with tech constellations.
-The logo of each technology/language/framework we like and use daily was transformed into constellation. 
+The logo of each technology/language/framework we like and use daily was transformed into a constellation. 
 We found the end result to be great so we want to share it with you. 
 So here they are - (probably) worlds first open-source t-shirts.
 
 # Assets and usage
 
 CONSTELLATIONS_by_TEONITE is a file with assets we made for use on TEONITE's t-shirts projects. 
-Feel free to use them in your project. Word of advice: try to achive high contrast between objects and t-shirt main color.
+Feel free to use them in your project. Word of advice: try to achieve high contrast between objects and t-shirt main color.
 
 HOW_TO_START is a quick tutorial on "How to create your own constellation". You might find it useful.
 
-For logo spacing and placement, as well as additional tweaks, examine "sample_famale_M_fullprint" and "sample_male_M_fullprint" files. These are the files we used in printing our version of male and female t-shirts.
+For logo spacing and placement, as well as additional tweaks, examine "sample_female_M_fullprint" and "sample_male_M_fullprint" files. These are the files we used in printing our version of male and female t-shirts.
 
 The font used in this project is Exo 2 which you can download here: http://ndiscovered.com and here http://fonts.google.com/specimen/Exo+2
 
 # I just want to buy the t-shirt
 
-If you don't want do make your own t-shirts, you can just buy one with a selected constellation logo (Python/Angular/React/Docker/etc.) in the swag shop:
+If you don't want to make your own t-shirts, you can just buy one with a selected constellation logo (Python/Angular/React/Docker/etc.) in the swag shop:
 
 http://teonite.cupsell.com
 
