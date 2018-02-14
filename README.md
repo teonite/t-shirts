@@ -33,7 +33,7 @@ The font used in this project is Exo 2 which you can download here: http://ndisc
 
 If you don't want to make your own t-shirts, you can just buy one with a selected constellation logo (Python/Angular/React/Docker/etc.) in the swag shop:
 
-http://teonite.cupsell.com
+https://teonite.cupsell.com
 
 # How it all started
 
