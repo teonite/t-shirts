@@ -2,7 +2,7 @@
 
 ![Constellations_by_TEONITE](http://i.imgur.com/HU111S6.jpg)
 
-![How_to_start](http://i.imgur.com/Wyl73Ds.jpg)
+![How_to_start](http://i.imgur.com/tBpNWkp.jpg)
 
 # Table of Contents
 * [About this project](#about-this-project)
