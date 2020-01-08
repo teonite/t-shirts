@@ -16,7 +16,7 @@
 Company t-shirts are usually cheap and boring. We tried to make it different and we came up with tech constellations.
 The logo of each technology/language/framework we like and use daily was transformed into a constellation. 
 We found the end result to be great so we want to share it with you. 
-So here they are - (probably) worlds first open-source t-shirts.
+So here they are - (probably) the world's first open-source t-shirts.
 
 # Assets and usage
 
